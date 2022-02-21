@@ -19,7 +19,7 @@ An investor is interested in opening an ice cream and surf shop in Oahu, Hawaii,
 From the results, we can glean that both June and December should be productive months for the shop. Although there is an 8 degree difference in minimum temperatures, it shouldn't warrant a closing of the shop at that time, considering the lows would probably be in the evening. The amount of counts are both over 1000, so the data should be sufficient for each. Although temperature is a good radar for ice cream consumption, it should be looked at with other things to take into consideration.  
 
 Some other queries that may influence predictability of the shop's year round success would be precipitation related to temperatures, humidity, and overcast versus sunny days. 
-Temperatures in the 60's can be significantly effected by whether or not it is sunny versus rainy.  
+Temperatures in the 60's can be significantly effected by whether or not it is sunny versus rainy. Wind can also affect the feel of the temperature, along with the quality of the waves.  Bigger waves may bring more foot traffic to the shop.  
 
 
 
